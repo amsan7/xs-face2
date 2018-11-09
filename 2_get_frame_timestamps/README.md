@@ -1,0 +1,1 @@
+get timestamps from ffmpeg show_frames. compare # of frames to ffprobe counts. this is before any actualy frame extraction... more checks to come later. also need to test whether ffrpobe and show_frames agree with one another
